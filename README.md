@@ -161,15 +161,6 @@ The `makePurchase` SOAP operation sends a token by email using **Mailhog** or lo
 ```
 storage/logs/laravel.log
 ```
-
----
-
-## 🧑‍💻 Author
-
-Developed by Christian Espinoza  
-📧 espinoza.c@pucp.edu.pe
-
-
 ---
 
 ## 🐳 Docker Compose (MySQL Only)
@@ -279,3 +270,10 @@ Then open the report in your browser:
 ```
 storage/coverage/index.html
 ```
+
+---
+
+## 🧑‍💻 Author
+
+Developed by Christian Espinoza  
+📧 espinoza.c@pucp.edu.pe
